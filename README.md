@@ -2,6 +2,7 @@
 
 ## What is it?
 - Downloader using curl library.
+- TODO: 
 
 ## Requred Environment
 - Visual Studio 2017 x64
