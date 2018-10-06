@@ -2,7 +2,7 @@
 
 ## What is it?
 - Downloader using curl library.
-- TODO: 
+- TODO: Ability to download files continuously
 
 ## Requred Environment
 - Visual Studio 2017 x64
