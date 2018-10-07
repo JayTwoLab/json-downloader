@@ -16,5 +16,5 @@
 ## License
 - json-downloader is under GPL 3 license. [https://github.com/j2doll/json-downloader](https://github.com/j2doll/json-downloader)
 - curl is under MIT style license. [https://curl.haxx.se/docs/copyright.html](https://curl.haxx.se/docs/copyright.html)
-- [![JSON for Modern C++](https://raw.githubusercontent.com/nlohmann/json/master/doc/json.gif)](https://github.com/nlohmann/json/releases) is under MIT License.
+- JSON for Modern C++ is under MIT License. [https://github.com/nlohmann/json/releases](https://github.com/nlohmann/json/releases)
 - spdlog is under MIT License [https://github.com/gabime/spdlog](https://github.com/gabime/spdlog)
