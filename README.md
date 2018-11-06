@@ -1,5 +1,7 @@
 # json-downloader
 
+> *Read this in other languages: [English](README.md), :kr: [한국어](README.ko.md)*
+
 ## Introduction
 - File Downloader for Windows Console
 - It is written for personal purpose.
@@ -36,5 +38,5 @@ json-downloader.exe data.json
 - json-downloader is under GPL 3 license. [https://github.com/j2doll/json-downloader](https://github.com/j2doll/json-downloader)
 - curl is under MIT style license. [https://curl.haxx.se/docs/copyright.html](https://curl.haxx.se/docs/copyright.html)
 - JSON for Modern C++ is under MIT license. [https://github.com/nlohmann/json/releases](https://github.com/nlohmann/json/releases)
-- spdlog is under MIT license [https://github.com/gabime/spdlog](https://github.com/gabime/spdlog)
+- spdlog is under MIT license. [https://github.com/gabime/spdlog](https://github.com/gabime/spdlog)
 - unarr is under LGPL 3 license. [https://github.com/selmf/unarr](https://github.com/selmf/unarr)
