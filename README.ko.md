@@ -35,6 +35,7 @@ json-downloader.exe data.json
 
 ## 라이센스와 링크
 - json-downloader는 LGPL 3 라이센스 입니다. [https://github.com/j2doll/json-downloader](https://github.com/j2doll/json-downloader)
+  - 상업용 버전을 원하시면 이슈를 남겨주세요. [https://github.com/j2doll/json-downloader/issues](https://github.com/j2doll/json-downloader/issues)
 - curl는 MIT 스타일 라이센스 입니다. [https://curl.haxx.se/docs/copyright.html](https://curl.haxx.se/docs/copyright.html)
 - JSON for Modern C++는 MIT 라이센스 입니다. [https://github.com/nlohmann/json/releases](https://github.com/nlohmann/json/releases)
 - spdlog는 MIT 라이센스 입니다. [https://github.com/gabime/spdlog](https://github.com/gabime/spdlog)
