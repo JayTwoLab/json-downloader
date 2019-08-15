@@ -30,13 +30,11 @@ json-downloader.exe data.json
 - 첫 번째 인수는 다운로드 할 파일의 URL입니다.
 - 두 번째 인수는 로컬에 저장할 파일의 이름입니다.
 
-## 필요한 환경
-- Visual Studio 2017 x64
-- Windows 10 x64 (어쩌면 Windows 7/8 x64에서도 빌드될 것입니다.)
+## 필요한 빌드 환경
+- Visual Studio 2019 (x86/x64)
 
 ## 라이센스와 링크
 - json-downloader는 LGPL 3 라이센스 입니다. [https://github.com/j2doll/json-downloader](https://github.com/j2doll/json-downloader)
 - curl는 MIT 스타일 라이센스 입니다. [https://curl.haxx.se/docs/copyright.html](https://curl.haxx.se/docs/copyright.html)
 - JSON for Modern C++는 MIT 라이센스 입니다. [https://github.com/nlohmann/json/releases](https://github.com/nlohmann/json/releases)
 - spdlog는 MIT 라이센스 입니다. [https://github.com/gabime/spdlog](https://github.com/gabime/spdlog)
-- unarr는 LGPL 3 라이센스 입니다. [https://github.com/selmf/unarr](https://github.com/selmf/unarr)

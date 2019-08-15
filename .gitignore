@@ -3,6 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+!libcurl*/
+
 # Prerequisites
 *.d
 
@@ -73,10 +75,12 @@ dkms.conf
 [Rr]eleases/
 x64/
 x86/
+Win32/
 bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
