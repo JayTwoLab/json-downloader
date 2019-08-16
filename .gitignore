@@ -3,7 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-!libcurl*/
+!/libcurl*
+!/libcurl-vc-x64-release-static-ipv6-sspi-winssl
+!/libcurl-vc-x86-release-static-ipv6-sspi-winssl
 
 # Prerequisites
 *.d
