@@ -6,6 +6,10 @@
 !/libcurl*
 !/libcurl-vc-x64-release-static-ipv6-sspi-winssl
 !/libcurl-vc-x86-release-static-ipv6-sspi-winssl
+!/libcurl-vc-x64-release-static-ipv6-sspi-winssl/include
+!/libcurl-vc-x86-release-static-ipv6-sspi-winssl/include
+!/libcurl-vc-x64-release-static-ipv6-sspi-winssl/lib
+!/libcurl-vc-x86-release-static-ipv6-sspi-winssl/lib
 
 # Prerequisites
 *.d
