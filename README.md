@@ -31,7 +31,7 @@ json-downloader.exe data.json
 - The second argument is the name of the file to be saved locally.
 
 ## Requred Build Environment
-- Visual Studio 2017 (x86/x64)
+- Visual Studio 2019 (x86/x64)
 
 ## License and links
 - json-downloader is under LGPL 3 license. [https://github.com/j2doll/json-downloader](https://github.com/j2doll/json-downloader)
