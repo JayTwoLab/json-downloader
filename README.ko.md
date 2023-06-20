@@ -47,7 +47,7 @@ json-downloader.exe data.json
 
 ## 라이센스와 링크
 
-- json-downloader는 LGPL 3 라이센스 입니다. https://github.com/JayTwoLab/json-downloader 
+- json-downloader는 MIT 라이센스 입니다. https://github.com/JayTwoLab/json-downloader 
 
 - curl는 MIT 스타일 라이센스 입니다. https://curl.haxx.se/docs/copyright.html
 
